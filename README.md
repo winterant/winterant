@@ -2,7 +2,7 @@
 
 <br />
 
-<img align="right" alt="GIF" width="400px" src="https://github-readme-stats.vercel.app/api?username=winterant&show_icons=true&hide_border=true" />
+<img align="right" width="400px" style="margin-top:38px" src="https://github-readme-stats.vercel.app/api?username=winterant&show_icons=true&hide_border=true" />
 
 ### About Me
 
