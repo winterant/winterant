@@ -6,5 +6,5 @@
 
 - 🔭 I'm studying for a master's degree in computer science and technology at Xidian University.
 - 🌱 I'm currently learning deep learning and researching recommender system.
-- 📝 I used to be an Acmer who loves algorithms.
+- 📝 I used to be an Acmer who loves algorithm.
 - 📫 How to reach me: jinglong@stu.xidian.edu.cn
