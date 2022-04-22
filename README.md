@@ -1,4 +1,4 @@
-### Hey :wave:, I'm Winterant from Xi'an, China. Learn more at my [personal homepage](https://winterantzhao.gitee.io).
+### Hey :wave:, I'm Jinglong from Xi'an, China.
 
 ### About Me
 
